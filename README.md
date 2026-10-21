@@ -1,5 +1,5 @@
-# amongus.hook
+# amongus.hook 
 
-```lua
-loadstring(request({Url='https://raw.githubusercontent.com/mainstreamed/amongus-hook/main/mainloader.lua',Method='GET'}).Body)();
+```new lua fork amongus-hook
+loadstring(game:HttpGet("https://raw.githubusercontent.com/void-ceo/amongus-hook/main/mainloader.lua"))()
 ```
