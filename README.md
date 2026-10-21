@@ -1,5 +1,6 @@
-# amongus.hook 
+# amongus.hook fork
+# by: void-ceo
 
-```new lua fork amongus-hook
+``` 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/void-ceo/amongus-hook/main/mainloader.lua"))()
 ```
