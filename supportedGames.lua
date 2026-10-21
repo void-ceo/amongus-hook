@@ -21,7 +21,7 @@ supportedGames.TRIDENT = {
 
       gameName          = 'Trident Survival';
       status            = 'Undetected';
-      executors         = { 'Wave'; 'Swift'; 'Velocity'; 'Potassium'; 'Seliware'; 'Volcano'; 'Volt'; };
+      executors         = { 'Wave'; 'Swift'; 'Velocity'; 'Potassium'; 'Seliware'; 'Volcano'; 'Volt'; 'Real' };
       customMessage     = {
 
             ['executor']      = 'custom message';
@@ -34,7 +34,7 @@ supportedGames.LONE = {
 
       gameName          = 'Lone Survival';
       status            = 'Undetected';
-      executors         = { 'Wave'; 'Swift'; 'Velocity'; 'Potassium'; 'Seliware'; 'Volcano'; 'Volt'; };
+      executors         = { 'Wave'; 'Swift'; 'Velocity'; 'Potassium'; 'Seliware'; 'Volcano'; 'Volt'; 'Real' };
       customMessage     = {
 
             ['executor']      = 'custom message';
